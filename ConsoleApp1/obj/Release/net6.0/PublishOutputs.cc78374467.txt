@@ -1,0 +1,5 @@
+D:\mphasis Simplilearn\Phase3\Assignment\Day5\ConsoleApp1\ConsoleApp1\bin\Release\net6.0\publish\ConsoleApp1.exe
+D:\mphasis Simplilearn\Phase3\Assignment\Day5\ConsoleApp1\ConsoleApp1\bin\Release\net6.0\publish\ConsoleApp1.dll
+D:\mphasis Simplilearn\Phase3\Assignment\Day5\ConsoleApp1\ConsoleApp1\bin\Release\net6.0\publish\ConsoleApp1.deps.json
+D:\mphasis Simplilearn\Phase3\Assignment\Day5\ConsoleApp1\ConsoleApp1\bin\Release\net6.0\publish\ConsoleApp1.runtimeconfig.json
+D:\mphasis Simplilearn\Phase3\Assignment\Day5\ConsoleApp1\ConsoleApp1\bin\Release\net6.0\publish\ConsoleApp1.pdb

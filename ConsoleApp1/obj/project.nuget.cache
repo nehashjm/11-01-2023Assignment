@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CaVU50soP1KwGI0zZrKN70NqHFOOZCl0vbyg4D8D4jh+Rtm+FbRU+NCnHYOaqppg1s+1VDqiIaLUrYXeLWbd4g==",
+  "success": true,
+  "projectFilePath": "D:\\mphasis Simplilearn\\Phase3\\Assignment\\Day5\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nehash\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512"
+  ],
+  "logs": []
+}

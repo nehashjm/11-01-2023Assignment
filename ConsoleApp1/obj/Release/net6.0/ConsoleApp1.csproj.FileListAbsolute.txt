@@ -1,0 +1,14 @@
+D:\mphasis Simplilearn\Phase3\Assignment\Day5\ConsoleApp1\ConsoleApp1\bin\Release\net6.0\ConsoleApp1.exe
+D:\mphasis Simplilearn\Phase3\Assignment\Day5\ConsoleApp1\ConsoleApp1\bin\Release\net6.0\ConsoleApp1.deps.json
+D:\mphasis Simplilearn\Phase3\Assignment\Day5\ConsoleApp1\ConsoleApp1\bin\Release\net6.0\ConsoleApp1.runtimeconfig.json
+D:\mphasis Simplilearn\Phase3\Assignment\Day5\ConsoleApp1\ConsoleApp1\bin\Release\net6.0\ConsoleApp1.dll
+D:\mphasis Simplilearn\Phase3\Assignment\Day5\ConsoleApp1\ConsoleApp1\bin\Release\net6.0\ConsoleApp1.pdb
+D:\mphasis Simplilearn\Phase3\Assignment\Day5\ConsoleApp1\ConsoleApp1\obj\Release\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\mphasis Simplilearn\Phase3\Assignment\Day5\ConsoleApp1\ConsoleApp1\obj\Release\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\mphasis Simplilearn\Phase3\Assignment\Day5\ConsoleApp1\ConsoleApp1\obj\Release\net6.0\ConsoleApp1.AssemblyInfo.cs
+D:\mphasis Simplilearn\Phase3\Assignment\Day5\ConsoleApp1\ConsoleApp1\obj\Release\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\mphasis Simplilearn\Phase3\Assignment\Day5\ConsoleApp1\ConsoleApp1\obj\Release\net6.0\ConsoleApp1.dll
+D:\mphasis Simplilearn\Phase3\Assignment\Day5\ConsoleApp1\ConsoleApp1\obj\Release\net6.0\refint\ConsoleApp1.dll
+D:\mphasis Simplilearn\Phase3\Assignment\Day5\ConsoleApp1\ConsoleApp1\obj\Release\net6.0\ConsoleApp1.pdb
+D:\mphasis Simplilearn\Phase3\Assignment\Day5\ConsoleApp1\ConsoleApp1\obj\Release\net6.0\ConsoleApp1.genruntimeconfig.cache
+D:\mphasis Simplilearn\Phase3\Assignment\Day5\ConsoleApp1\ConsoleApp1\obj\Release\net6.0\ref\ConsoleApp1.dll
